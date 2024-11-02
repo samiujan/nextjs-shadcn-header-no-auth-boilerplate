@@ -1,3 +1,5 @@
+// /Users/sami/code/yalt5/src/app/page.tsx
+
 import Link from 'next/link'
 import { Button } from "@/components/ui/button"
 import { Icons } from "@/components/ui/icons"
